@@ -6,6 +6,8 @@
 
 ## About ME ##
 
+![](https://komarev.com/ghpvc/?username=generalgord&style=flat-square)
+
 ✨ I build custom Mobile Apps, production level API's, Corporate websites.
 
 👀 I’m interested in VueJS3, .netCore, WordPress, Xamarin.Forms, Azure
