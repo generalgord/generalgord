@@ -10,7 +10,7 @@
 
 ✨ I build custom Mobile Apps, production level API's, Corporate websites.
 
-👀 I’m interested in VueJS3, .netCore, WordPress, Xamarin.Forms, Azure
+👀 I’m interested in VueJS3, .netCore, WordPress, Xamarin.Forms, Flutter, Azure Cloud, Google Cloud Tools & Firebase
 
 ❤️ I love writing code and building any kind of apps, and explore new knowledges.
 
