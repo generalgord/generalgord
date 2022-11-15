@@ -8,13 +8,16 @@
 
 ![](https://komarev.com/ghpvc/?username=generalgord&style=flat-square)
 
+? He is busy gaining experience in microservice architecture.
+? Onion Architecture expands its applications.
+
 ✨ I build custom Mobile Apps, production level API's, Corporate websites.
 
-👀 I’m interested in VueJS3, .netCore, WordPress, Xamarin.Forms, Flutter, Azure Cloud, Google Cloud Tools & Firebase
+👀 I’m interested in VueJS3, asp.NET Core (Web Api & App), WordPress, Xamarin.Forms, Flutter, Azure Cloud, Google Cloud Tools & Firebase
 
 ❤️ I love writing code and building any kind of apps, and explore new knowledges.
 
-🌱 I’m currently learning advanced technologies on VueJS3, and Flutter
+🌱 I'm currently learning advanced technologies on asp.NET Core
 
 💬 Ask me about anything [here](https://github.com/generalgord/generalgord/issues)
 
