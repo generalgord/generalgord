@@ -9,6 +9,7 @@
 ![](https://komarev.com/ghpvc/?username=generalgord&style=flat-square)
 
 ? He is busy gaining experience in microservice architecture.
+
 ? Onion Architecture expands its applications.
 
 ✨ I build custom Mobile Apps, production level API's, Corporate websites.
